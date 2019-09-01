@@ -9,7 +9,8 @@ public class A1Example {
 		// you know what Eclipse thinks it is using and
 		// so that you can confirm that it is 10.0 or higher.
 		
-		System.out.println("Your Java version: " + System.getProperty("java.version"));
+		// commented the line which prints the Java version.
+		//System.out.println("Your Java version: " + System.getProperty("java.version"));
 		
 		// Set up scanner object to read space-separated values
 		// from console input
